@@ -3,7 +3,7 @@ import {
   createBottomTabNavigator,
   BottomTabNavigationOptions,
 } from '@react-navigation/bottom-tabs';
-import {StyleSheet, Text, View} from 'react-native';
+import {StyleSheet, View} from 'react-native';
 import HomeScreen from '../screens/HomeScreen';
 import Summary from '../screens/Summary';
 import AddExpenses from '../screens/AddExpenses';
